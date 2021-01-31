@@ -1,0 +1,28 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    background-color: silver;
+    color: gold;
+}
+.one{
+    border: 2px solid red;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    width: 30%;
+    float: left;
+    color: mediumblue;
+    height: 200px;
+   padding-bottom: 10px;
+
+}
+img:hover{
+    background-image: url(logo/download\ \(1\).jpg);
+}
+.two{
+    float: left;
+    text-align: center;
+    border: 2px solid red;
+}
